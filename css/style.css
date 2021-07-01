@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+
+
+}
+
+.card {
+    color: blanchedalmond;
+    margin: 30px;
+    background-color: #333;
+    font-weight: bold;
+}
+
+h1 {
+    font-weight: bold;
+    margin: 30px;
+    color: blanchedalmond;
+    text-align: center;
+    font-style: oblique;
+    margin-top: 50px;
+}
+
+.none {
+
+    display: none;
+}
+
+.btn {
+
+    padding: 0;
+}
+
+.check {
+
+    text-decoration: line-through;
+    background-color: gray;
+}
+
+.block {
+
+    display: block;
+}
+
